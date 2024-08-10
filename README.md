@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Injamul2k24
+- 👋 Hi, I’m  Injamul Hoque
 - 👀 I’m interested in artificial intelligence and machine learning 
 - 🌱 I’m currently learning B.Tech in cse
 - 💞️ I’m looking to collaborate on new opportunity
